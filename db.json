@@ -1,0 +1,108 @@
+{
+  "videos": [
+    {
+      "titulo": "Simplificando el Back End",
+      "equipo": "Back end",
+      "imagen": "https://i.ytimg.com/vi/XuSXJ9DUcvY/hqdefault.jpg",
+      "url": "https://www.youtube.com/embed/XuSXJ9DUcvY",
+      "descripcion": "¿Quieres conocer y entender mejor qué es el Back End? En este video Bismarck Berrios nos explica qué es el back end de una manera sencilla.",
+      "id": "1"
+    },
+    {
+      "titulo": "¿Sabes qué es NodeJS?",
+      "equipo": "Back end",
+      "imagen": "https://i.ytimg.com/vi/o8x_n4Px1N0/hqdefault.jpg",
+      "url": "https://www.youtube.com/embed/o8x_n4Px1N0",
+      "descripcion": "¿Es un lenguaje de programación? ¿Es un ambiente de desarrollo? ¿Una herramienta? En este video nuestro instructor, Leonardo Castillo, nos explica qué es NodeJS y para qué sirve.",
+      "id": "2"
+    },
+    {
+      "titulo": "Cómo volverse un desarrollador Front End",
+      "equipo": "Front end",
+      "imagen": "https://i.ytimg.com/vi/-Ou5c3A225k/hqdefault.jpg",
+      "url": "https://www.youtube.com/embed/-Ou5c3A225k",
+      "descripcion": "Terminé mis estudios, ¿y ahora? ¿Cómo puedo entrar al mercado laboral? ¿Cómo encontrar un trabajo front end? En este video nuestra instructor Barbara nos da algunos consejos para las personas que desean entrar en el área del desarrollo web.",
+      "id": "3"
+    },
+    {
+      "titulo": "Cómo funciona el Machine Learning",
+      "equipo": "Inteligencia Artificial",
+      "imagen": "https://i.ytimg.com/vi/1EJ69twpnMo/hqdefault.jpg",
+      "url": "https://www.youtube.com/embed/1EJ69twpnMo",
+      "descripcion": "Explorando el Fascinante Mundo del Machine Learning. En este Alura+ nuestro instrutor Álvaro Camacho te ayudará a descubrir cómo las máquinas aprenden de forma autónoma y toman decisiones inteligentes.",
+      "id": "4"
+    },
+    {
+      "titulo": "Camino hacia el éxito como desarrollador Java",
+      "equipo": "Back end",
+      "imagen": "https://i.ytimg.com/vi/zOetOoeOrOg/hqdefault.jpg",
+      "url": "https://www.youtube.com/embed/zOetOoeOrOg",
+      "descripcion": "¡Descubre el camino hacia el éxito como desarrollador Java! 💻🚀 En esta entrevista, exploramos los secretos del mundo Java y respondemos a tus preguntas clave:",
+      "id": "5"
+    },
+    {
+      "titulo": "De la Creación al Borrado: Descubre el Poder del CRUD en el Desarrollo de Aplicaciones",
+      "equipo": "Back end",
+      "imagen": "https://i.ytimg.com/vi/jr_98HCSTZc/hqdefault.jpg",
+      "url": "https://www.youtube.com/embed/jr_98HCSTZc",
+      "descripcion": "En este video, exploraremos el concepto de CRUD desde la perspectiva de un Desarrollador Front-End. Si eres un desarrollador web o estás interesado en el desarrollo de aplicaciones, es fundamental comprender cómo se realiza la creación, lectura, actualización y eliminación de datos en un sistema. Y eso es exactamente lo que aprenderás aquí.",
+      "id": "6"
+    },
+    {
+      "titulo": "¡Domina CSS Flexbox con FlexboxFroggy! Aprende jugando en este desafío divertido",
+      "equipo": "Front end",
+      "imagen": "https://i.ytimg.com/vi/MXPhyN5t0uQ/hqdefault.jpg",
+      "url": "https://www.youtube.com/embed/MXPhyN5t0uQ",
+      "descripcion": "¿Conoces el término CSS? ¿Sabes que és? En este alura.tips Gabi A entrevista la instructora front end Barbara y aprende sobre el mundo del CSS de una forma muy divertida.",
+      "id": "7"
+    },
+    {
+      "titulo": "Como utilizar el Display block, inline, inline-block",
+      "equipo": "Front end",
+      "imagen": "https://i.ytimg.com/vi/AG2QssLpQzI/hqdefault.jpg",
+      "url": "https://www.youtube.com/embed/AG2QssLpQzI",
+      "descripcion": "Sabemos que posicionar elementos utilizando CSS a veces puede ser algo desafiador, por eso en este video nuestra instructora Jeanmarie Quijada te explica que es la propiedad Display en CSS y algunos de sus valores, te mostrara en código el comportamiento del elemento DIV al utilizar algunos de los valores de la propiedad display como: block, inline y inline block.",
+      "id": "8"
+    },
+    {
+      "titulo": "Explorando el poder del Back-End en el Desarrollo Web",
+      "equipo": "Back end",
+      "imagen": "https://i.ytimg.com/vi/Z024LSCMqFk/hqdefault.jpg",
+      "url": "https://www.youtube.com/embed/Z024LSCMqFk",
+      "descripcion": "¡Videos nuevos todos los miércoles! A las 6pm México * 7pm Colombia * 8pm Bolivia * 9pm Argentina/Chile",
+      "id": "9"
+    },
+    {
+      "titulo": "La magia detrás de Java",
+      "equipo": "Inteligencia Artificial",
+      "imagen": "https://i.ytimg.com/vi/GrEO8nZzyZM/hqdefault.jpg",
+      "url": "https://www.youtube.com/embed/GrEO8nZzyZM",
+      "descripcion": "Sabemos que el ecosistema de Java es una sopa de letras con varias siglas, y la JVM (Java Virtual Machine) es una de ellas. En este video, nuestra instructora Ellen Pimentel explica su rol y características y es más simple que la magia, es decir, de lo que uno imagina.",
+      "id": "10"
+    },
+    {
+      "titulo": "La importancia de Estadística en Data Science",
+      "equipo": "Inteligencia Artificial",
+      "imagen": "https://i.ytimg.com/vi/fTWD5Pnxkck/hqdefault.jpg",
+      "url": "https://www.youtube.com/embed/fTWD5Pnxkck",
+      "descripcion": "En este video nuestra instructora, Erika Bellido, nos explicará el fascinante mundo de la estadística aplicada a la ciencia de datos. La estadística es una herramienta esencial para cualquier data scientist, ya que permite analizar y comprender grandes volúmenes de datos de manera eficiente y precisa.",
+      "id": "11"
+    },
+    {
+      "titulo": "¿Cómo ser un Profesional en T? Conociendo al Tech Guide",
+      "equipo": "Innovación y gestión",
+      "imagen": "https://i.ytimg.com/vi/0udk1vXmwkc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/0udk1vXmwkc",
+      "descripcion": "Este video presenta el concepto del profesional en T, destacando la importancia de tener conocimientos profundos en un área específica y habilidades generales en otras. También se ofrece una guía para desarrollar este perfil profesional en el ámbito tecnológico.",
+      "id": "12"
+    },
+    {
+      "titulo": "Empresas que aprenden | #aluramás",
+      "equipo": "Innovación y gestión",
+      "imagen": "https://i.ytimg.com/vi/mwNfWRsDDWE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/mwNfWRsDDWE",
+      "descripcion": "Este video explora el concepto de organizaciones que aprenden, analizando cómo las empresas pueden fomentar una cultura de aprendizaje continuo y adaptación para mantenerse competitivas en el mercado.",
+      "id": "13"
+    }
+  ]
+}
